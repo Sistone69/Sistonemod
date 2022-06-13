@@ -1,0 +1,11 @@
+{
+"item.sistonemod.coin_aluminium": "Aluminium Coin",
+"item.sistonemod.coin_bronze": "Bronze Coin",
+"item.sistonemod.coin_copper": "Copper Coin",
+"item.sistonemod.coin_iron": "Iron Coin",
+"item.sistonemod.coin_gold": "Gold Coin",
+"item.sistonemod.galvron_ingot":"Galvron Ingot",
+"block.sistonemod.asphalt_block":"Asphalt Block",
+"item.sistonemod.bitumen":"Bitumen",
+"itemGroup.sistonemod.sistonemod":"Sistone Mod"
+}

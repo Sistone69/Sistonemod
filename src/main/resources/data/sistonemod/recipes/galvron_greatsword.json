@@ -1,0 +1,22 @@
+{"type":"minecraft:crafting_shaped",
+"pattern": [
+  "  G",
+  "GR ",
+  "PG "
+],
+"key": {
+  "R": {
+    "item": "sistonemod:pearl"
+  },
+  "G": {
+    "item": "sistonemod:ingot_galvron"
+  },
+  "P": {
+    "item": "sistonemod:wooden_rod"
+  }
+},
+"result": {
+  "item": "sistonemod:galvron_greatsword",
+  "count": 1
+}
+}

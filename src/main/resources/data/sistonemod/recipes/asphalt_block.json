@@ -1,0 +1,19 @@
+{"type":"minecraft:crafting_shaped",
+"pattern": [
+  "BGB",
+  "GBG",
+  "BGB"
+],
+"key": {
+  "B": {
+    "item": "sistonemod:bitumen"
+  },
+  "G": {
+    "item": "minecraft:gravel"
+  }
+},
+"result": {
+  "item": "sistonemod:asphalt_block",
+  "count": 4
+}
+}
